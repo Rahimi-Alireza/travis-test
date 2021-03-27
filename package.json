@@ -1,0 +1,12 @@
+{
+	"name": "learn-travis-by-Alireza",
+	"description": "Travis CI check for JSHint",
+	"author": "Rahimi-Alireza",
+	"version": "0.0.1",
+	"devDependencies": {
+		"jshint": "^2.12.0"
+	},
+	"scripts": {
+		"test": "jshint hello.js"
+	}
+}
